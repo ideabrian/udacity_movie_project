@@ -4,6 +4,6 @@ Basic Python Class to manage movie data + HTML, CSS, jQuery, Bootstrap for quick
 
 ###Basic Installation
 
--clone repo
--From the command line:
- python entertainment_center.py 
+* clone repo
+* From the command line:
+  python entertainment_center.py 
